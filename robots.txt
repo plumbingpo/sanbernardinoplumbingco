@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanbernardinoplumbingco.com/sitemap.xml
